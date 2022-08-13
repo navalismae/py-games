@@ -1,5 +1,6 @@
 #simple calc in python :)
-def addiction(firstConst, secondConst):
+#comment for commit :)
+def addiction(firstConst, firstConst):
     print(firstConst + secondConst)
 
 def subtruction(firstConst, secondConst):
