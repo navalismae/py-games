@@ -1,5 +1,5 @@
 #simple calc in python :)
-def addiction(firstConst, secondConst):
+def addiction(firstConst, lalal):
     print(firstConst + secondConst)
 
 def subtruction(firstConst, secondConst):
